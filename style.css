@@ -1,0 +1,59 @@
+* {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1 {
+    width: 70%;
+    padding: 30px;
+    font-size: 3em;
+    background-color: cadetblue;
+    color: white;
+    border-radius: 10px;
+}
+
+.instructions {
+    width: 70%;
+    padding: 30px;
+    border: 2px solid cadetblue;
+    border-radius: 10px;
+}
+
+li {
+    line-height: 1.5;
+}
+
+#numlist {
+    margin-top: 5%;
+    margin-left: 30px;
+}
+
+.num {
+    width: 40%;
+    margin: 0;
+    padding: 1em;
+    border: 1px solid cadetblue;
+    border-radius: 10px;
+}
+
+.fizz, 
+.buzz,
+.fizzbuzz {
+    width: 40%;
+    margin: 0;
+    padding: 1em;
+    border-radius: 10px;
+    color: white;
+}
+
+.fizz {
+    background-color: mediumturquoise;
+}
+
+.buzz {
+    background-color: lightcoral;
+}
+
+.fizzbuzz {
+    background-color: plum;
+}
+
